@@ -1,0 +1,30 @@
+{
+  "name": "react-chat-app",
+  "version": "1.0.0",
+  "description": "Web chat app using ReactJS and Chatkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jengelstengel/React-Chat-App.git"
+  },
+  "keywords": [
+    "React",
+    "Chatkit",
+    "ReactJS",
+    "Node.js"
+  ],
+  "author": "Twan Mulder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jengelstengel/React-Chat-App/issues"
+  },
+  "homepage": "https://github.com/jengelstengel/React-Chat-App#readme",
+  "dependencies": {
+    "@pusher/chatkit": "^0.7.16",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
